@@ -1,4 +1,4 @@
 ﻿CREATE PROCEDURE [dbo].[Procedure1]
 AS
-	SELECT 'Hello World!';
+	SELECT 'Hello World!!';
 RETURN 0
